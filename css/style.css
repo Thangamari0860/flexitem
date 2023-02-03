@@ -1,0 +1,133 @@
+.order{
+     background-color:#C7317F;
+	 display:flex;
+}
+
+.o1{
+	order:3;
+}
+
+.o2{
+	order:1;
+}
+
+.o3{
+	order:2;
+}
+
+.o1,.o2,.o3{
+	padding:10px;
+	background-color:#2D66DE;
+	margin:10px;
+	width:350px;
+}
+
+
+.flex-grow{
+	background-color:#23CD1E; 
+	display:flex;
+}
+
+.ram{
+	flex-grow:20;
+	
+}
+.love{
+	flex-grow:2;
+}
+
+.aunty{
+	flex-grow:20;
+}
+
+.ram,.love,.aunty{
+	padding:10px;
+	background-color:#CD1EAF;
+	margin:10px;
+
+}
+
+.flex-basis{
+	
+	background-color:#1A5EB7; 
+	display:flex;
+}
+
+.gold{
+	flex-basis:200px;
+}
+
+
+.gold,.prins,.madhu,.siva{
+	padding:10px;
+	background-color:#F271F9 ;
+	margin:10px;
+    text-align:center;
+	
+}
+.align-self{
+	
+	background-color:#1AE2D1 ; 
+	display:flex;
+	align-items:flex-start;
+	height:600px;
+}
+
+.ma{
+	align-self:center;
+
+}
+
+.go,.ma,.mm,.sp{
+	padding:10px;
+	background-color:#F271F9 ;
+	margin:10px;
+}
+
+.flex-shrink{
+	background-color:#E21A76;
+	display:flex;
+	width:900px;
+}
+
+.b{
+	flex-shrink:3;
+}
+
+.g,.m,.b,.s,.p,.q,.r,.t{
+	           padding:10px;
+	           background-color:#F271F9 ;
+	           margin:10px;
+	           width:200px;
+}
+
+
+.flex{
+	background-color:#1AE268;
+	display:flex;
+}
+
+.hh{
+	flex:0 0 300px;
+}
+
+.hh,.ff,.rr{
+	background-color:#1B472C;
+	padding:10px;
+	width:200px;
+	margin:10px
+}
+	
+h2{
+	
+	background-color:#99ff66;
+	color:#ff9900;
+	border:2px solid black;
+	width:280px;
+	
+	
+	
+}
+	
+
+
